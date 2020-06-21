@@ -1,0 +1,2054 @@
+fileFormatVersion: 2
+guid: e89b2d954ac90b740a3e76ca186e3a2e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Axis_b
+    100002: Axis_b_ground_detect
+    100004: Axis_b_ground_detect_r
+    100006: Axis_f
+    100008: Axis_f_ground_detect
+    100010: Axis_f_ground_detect_r
+    100012: Axis_rot_b
+    100014: Axis_rot_f
+    100016: Axis_shape_bl
+    100018: Axis_shape_br
+    100020: Axis_shape_fl
+    100022: Axis_shape_fr
+    100024: Carriage
+    100026: //RootNode
+    100028: Carriage_curtain
+    100030: Carriage_Rig
+    100032: chest.001
+    100034: chest.001 1
+    100036: conn_ll
+    100038: conn_lr
+    100040: conn_rl
+    100042: conn_rr
+    100044: connector_conn
+    100046: connector_conn 1
+    100048: Connector_for_Horses
+    100050: connector_harn_l
+    100052: connector_harn_l 1
+    100054: connector_harn_l.001
+    100056: connector_harn_l.001 1
+    100058: connector_harn_r
+    100060: connector_harn_r 1
+    100062: connector_harn_r.001
+    100064: connector_harn_r.001 1
+    100066: DEF-belly
+    100068: DEF-belly 1
+    100070: DEF-breast.L
+    100072: DEF-breast.L 1
+    100074: DEF-breast.R
+    100076: DEF-breast.R 1
+    100078: DEF-chest
+    100080: DEF-chest 1
+    100082: DEF-ear.L
+    100084: DEF-ear.L 1
+    100086: DEF-ear.L.001
+    100088: DEF-ear.L.001 1
+    100090: DEF-ear.R
+    100092: DEF-ear.R 1
+    100094: DEF-ear.R.001
+    100096: DEF-ear.R.001 1
+    100098: DEF-eye.L
+    100100: DEF-eye.L 1
+    100102: DEF-eye.R
+    100104: DEF-eye.R 1
+    100106: DEF-f_toe.L
+    100108: DEF-f_toe.L 1
+    100110: DEF-f_toe.R
+    100112: DEF-f_toe.R 1
+    100114: DEF-foot.L
+    100116: DEF-foot.L 1
+    100118: DEF-foot.L.001
+    100120: DEF-foot.L.001 1
+    100122: DEF-foot.R
+    100124: DEF-foot.R 1
+    100126: DEF-foot.R.001
+    100128: DEF-foot.R.001 1
+    100130: DEF-forearm.L
+    100132: DEF-forearm.L 1
+    100134: DEF-forearm.L.001
+    100136: DEF-forearm.L.001 1
+    100138: DEF-forearm.R
+    100140: DEF-forearm.R 1
+    100142: DEF-forearm.R.001
+    100144: DEF-forearm.R.001 1
+    100146: DEF-hair_base.01
+    100148: DEF-hair_base.01 1
+    100150: DEF-hair_base.02
+    100152: DEF-hair_base.02 1
+    100154: DEF-hair_base.03
+    100156: DEF-hair_base.03 1
+    100158: DEF-hair_base.04
+    100160: DEF-hair_base.04 1
+    100162: DEF-hair_base.05
+    100164: DEF-hair_base.05 1
+    100166: DEF-hair_base.06
+    100168: DEF-hair_base.06 1
+    100170: DEF-hair_top.01
+    100172: DEF-hair_top.01 1
+    100174: DEF-hair_top.02
+    100176: DEF-hair_top.02 1
+    100178: DEF-hair_top.03
+    100180: DEF-hair_top.03 1
+    100182: DEF-hair_top.04
+    100184: DEF-hair_top.04 1
+    100186: DEF-hair_top.05
+    100188: DEF-hair_top.05 1
+    100190: DEF-hair_top.06
+    100192: DEF-hair_top.06 1
+    100194: DEF-hand.L
+    100196: DEF-hand.L 1
+    100198: DEF-hand.L.001
+    100200: DEF-hand.L.001 1
+    100202: DEF-hand.R
+    100204: DEF-hand.R 1
+    100206: DEF-hand.R.001
+    100208: DEF-hand.R.001 1
+    100210: DEF-jaw
+    100212: DEF-jaw 1
+    100214: DEF-jaw.001
+    100216: DEF-jaw.001 1
+    100218: DEF-nose.L
+    100220: DEF-nose.L 1
+    100222: DEF-nose.R
+    100224: DEF-nose.R 1
+    100226: DEF-pelvis
+    100228: DEF-pelvis 1
+    100230: DEF-pelvis.L
+    100232: DEF-pelvis.L 1
+    100234: DEF-pelvis.R
+    100236: DEF-pelvis.R 1
+    100238: DEF-r_toe.L
+    100240: DEF-r_toe.L 1
+    100242: DEF-r_toe.R
+    100244: DEF-r_toe.R 1
+    100246: DEF-shin.L
+    100248: DEF-shin.L 1
+    100250: DEF-shin.L.001
+    100252: DEF-shin.L.001 1
+    100254: DEF-shin.R
+    100256: DEF-shin.R 1
+    100258: DEF-shin.R.001
+    100260: DEF-shin.R.001 1
+    100262: DEF-shoulder.L
+    100264: DEF-shoulder.L 1
+    100266: DEF-shoulder.R
+    100268: DEF-shoulder.R 1
+    100270: DEF-skull.L
+    100272: DEF-skull.L 1
+    100274: DEF-skull.R
+    100276: DEF-skull.R 1
+    100278: DEF-spine
+    100280: DEF-spine 1
+    100282: DEF-spine.001
+    100284: DEF-spine.001 1
+    100286: DEF-spine.002
+    100288: DEF-spine.002 1
+    100290: DEF-spine.003
+    100292: DEF-spine.003 1
+    100294: DEF-spine.004
+    100296: DEF-spine.004 1
+    100298: DEF-spine.005
+    100300: DEF-spine.005 1
+    100302: DEF-spine.006
+    100304: DEF-spine.006 1
+    100306: DEF-spine.007
+    100308: DEF-spine.007 1
+    100310: DEF-spine.008
+    100312: DEF-spine.008 1
+    100314: DEF-spine.009
+    100316: DEF-spine.009 1
+    100318: DEF-spine.010
+    100320: DEF-spine.010 1
+    100322: DEF-spine.011
+    100324: DEF-spine.011 1
+    100326: DEF-spine.012
+    100328: DEF-spine.012 1
+    100330: DEF-spine.013
+    100332: DEF-spine.013 1
+    100334: DEF-spine.014
+    100336: DEF-spine.014 1
+    100338: DEF-spine.015
+    100340: DEF-spine.015 1
+    100342: DEF-spine.016
+    100344: DEF-spine.016 1
+    100346: DEF-thigh.L
+    100348: DEF-thigh.L 1
+    100350: DEF-thigh.L.001
+    100352: DEF-thigh.L.001 1
+    100354: DEF-thigh.R
+    100356: DEF-thigh.R 1
+    100358: DEF-thigh.R.001
+    100360: DEF-thigh.R.001 1
+    100362: DEF-upper_arm.L
+    100364: DEF-upper_arm.L 1
+    100366: DEF-upper_arm.L.001
+    100368: DEF-upper_arm.L.001 1
+    100370: DEF-upper_arm.R
+    100372: DEF-upper_arm.R 1
+    100374: DEF-upper_arm.R.001
+    100376: DEF-upper_arm.R.001 1
+    100378: Door_L
+    100380: Door_R
+    100382: ear.L
+    100384: ear.L 1
+    100386: Harness
+    100388: Harness.001
+    100390: head
+    100392: head 1
+    100394: Horse
+    100396: Horse.001
+    100398: Horse_Path
+    100400: Horse_Rig
+    100402: Horse_Rig.001
+    100404: Hub_bl
+    100406: Hub_br
+    100408: Hub_fl
+    100410: Hub_fr
+    100412: IK_second_motion
+    100414: Main_second_motion
+    100416: MCH-pivot
+    100418: MCH-pivot 1
+    100420: MCH-ROT-head
+    100422: MCH-ROT-head 1
+    100424: MCH-ROT-neck
+    100426: MCH-ROT-neck 1
+    100428: MCH-spine.005
+    100430: MCH-spine.005 1
+    100432: MCH-spine.006
+    100434: MCH-spine.006 1
+    100436: MCH-spine.007
+    100438: MCH-spine.007 1
+    100440: MCH-spine.008
+    100442: MCH-spine.008 1
+    100444: MCH-spine.009
+    100446: MCH-spine.009 1
+    100448: MCH-spine.010
+    100450: MCH-spine.010 1
+    100452: neck
+    100454: neck 1
+    100456: ORG-belly
+    100458: ORG-belly 1
+    100460: ORG-breast.L
+    100462: ORG-breast.L 1
+    100464: ORG-breast.R
+    100466: ORG-breast.R 1
+    100468: ORG-chest
+    100470: ORG-chest 1
+    100472: ORG-ear.L
+    100474: ORG-ear.L 1
+    100476: ORG-eye.L
+    100478: ORG-eye.L 1
+    100480: ORG-eye.R
+    100482: ORG-eye.R 1
+    100484: ORG-nose.L
+    100486: ORG-nose.L 1
+    100488: ORG-nose.R
+    100490: ORG-nose.R 1
+    100492: ORG-pelvis
+    100494: ORG-pelvis 1
+    100496: ORG-pelvis.L
+    100498: ORG-pelvis.L 1
+    100500: ORG-pelvis.R
+    100502: ORG-pelvis.R 1
+    100504: ORG-shoulder.L
+    100506: ORG-shoulder.L 1
+    100508: ORG-shoulder.R
+    100510: ORG-shoulder.R 1
+    100512: ORG-skull.L
+    100514: ORG-skull.L 1
+    100516: ORG-skull.R
+    100518: ORG-skull.R 1
+    100520: ORG-spine.006
+    100522: ORG-spine.006 1
+    100524: ORG-spine.008
+    100526: ORG-spine.008 1
+    100528: ORG-spine.009
+    100530: ORG-spine.009 1
+    100532: ORG-spine.010
+    100534: ORG-spine.010 1
+    100536: ORG-spine.011
+    100538: ORG-spine.011 1
+    100540: ORG-spine.012
+    100542: ORG-spine.012 1
+    100544: ORG-spine.013
+    100546: ORG-spine.013 1
+    100548: ORG-spine.014
+    100550: ORG-spine.014 1
+    100552: ORG-spine.015
+    100554: ORG-spine.015 1
+    100556: ORG-spine.016
+    100558: ORG-spine.016 1
+    100560: Root
+    100562: root
+    100564: root 1
+    100566: torso
+    100568: torso 1
+    100570: tweak_ear.L
+    100572: tweak_ear.L 1
+    100574: tweak_spine.006
+    100576: tweak_spine.006 1
+    100578: tweak_spine.008
+    100580: tweak_spine.008 1
+    100582: tweak_spine.009
+    100584: tweak_spine.009 1
+    100586: tweak_spine.010
+    100588: tweak_spine.010 1
+    100590: tweak_spine.011
+    100592: tweak_spine.011 1
+    100594: Wheel_bl
+    100596: Wheel_br
+    100598: Wheel_fl
+    100600: Wheel_fr
+    400000: Axis_b
+    400002: Axis_b_ground_detect
+    400004: Axis_b_ground_detect_r
+    400006: Axis_f
+    400008: Axis_f_ground_detect
+    400010: Axis_f_ground_detect_r
+    400012: Axis_rot_b
+    400014: Axis_rot_f
+    400016: Axis_shape_bl
+    400018: Axis_shape_br
+    400020: Axis_shape_fl
+    400022: Axis_shape_fr
+    400024: Carriage
+    400026: //RootNode
+    400028: Carriage_curtain
+    400030: Carriage_Rig
+    400032: chest.001
+    400034: chest.001 1
+    400036: conn_ll
+    400038: conn_lr
+    400040: conn_rl
+    400042: conn_rr
+    400044: connector_conn
+    400046: connector_conn 1
+    400048: Connector_for_Horses
+    400050: connector_harn_l
+    400052: connector_harn_l 1
+    400054: connector_harn_l.001
+    400056: connector_harn_l.001 1
+    400058: connector_harn_r
+    400060: connector_harn_r 1
+    400062: connector_harn_r.001
+    400064: connector_harn_r.001 1
+    400066: DEF-belly
+    400068: DEF-belly 1
+    400070: DEF-breast.L
+    400072: DEF-breast.L 1
+    400074: DEF-breast.R
+    400076: DEF-breast.R 1
+    400078: DEF-chest
+    400080: DEF-chest 1
+    400082: DEF-ear.L
+    400084: DEF-ear.L 1
+    400086: DEF-ear.L.001
+    400088: DEF-ear.L.001 1
+    400090: DEF-ear.R
+    400092: DEF-ear.R 1
+    400094: DEF-ear.R.001
+    400096: DEF-ear.R.001 1
+    400098: DEF-eye.L
+    400100: DEF-eye.L 1
+    400102: DEF-eye.R
+    400104: DEF-eye.R 1
+    400106: DEF-f_toe.L
+    400108: DEF-f_toe.L 1
+    400110: DEF-f_toe.R
+    400112: DEF-f_toe.R 1
+    400114: DEF-foot.L
+    400116: DEF-foot.L 1
+    400118: DEF-foot.L.001
+    400120: DEF-foot.L.001 1
+    400122: DEF-foot.R
+    400124: DEF-foot.R 1
+    400126: DEF-foot.R.001
+    400128: DEF-foot.R.001 1
+    400130: DEF-forearm.L
+    400132: DEF-forearm.L 1
+    400134: DEF-forearm.L.001
+    400136: DEF-forearm.L.001 1
+    400138: DEF-forearm.R
+    400140: DEF-forearm.R 1
+    400142: DEF-forearm.R.001
+    400144: DEF-forearm.R.001 1
+    400146: DEF-hair_base.01
+    400148: DEF-hair_base.01 1
+    400150: DEF-hair_base.02
+    400152: DEF-hair_base.02 1
+    400154: DEF-hair_base.03
+    400156: DEF-hair_base.03 1
+    400158: DEF-hair_base.04
+    400160: DEF-hair_base.04 1
+    400162: DEF-hair_base.05
+    400164: DEF-hair_base.05 1
+    400166: DEF-hair_base.06
+    400168: DEF-hair_base.06 1
+    400170: DEF-hair_top.01
+    400172: DEF-hair_top.01 1
+    400174: DEF-hair_top.02
+    400176: DEF-hair_top.02 1
+    400178: DEF-hair_top.03
+    400180: DEF-hair_top.03 1
+    400182: DEF-hair_top.04
+    400184: DEF-hair_top.04 1
+    400186: DEF-hair_top.05
+    400188: DEF-hair_top.05 1
+    400190: DEF-hair_top.06
+    400192: DEF-hair_top.06 1
+    400194: DEF-hand.L
+    400196: DEF-hand.L 1
+    400198: DEF-hand.L.001
+    400200: DEF-hand.L.001 1
+    400202: DEF-hand.R
+    400204: DEF-hand.R 1
+    400206: DEF-hand.R.001
+    400208: DEF-hand.R.001 1
+    400210: DEF-jaw
+    400212: DEF-jaw 1
+    400214: DEF-jaw.001
+    400216: DEF-jaw.001 1
+    400218: DEF-nose.L
+    400220: DEF-nose.L 1
+    400222: DEF-nose.R
+    400224: DEF-nose.R 1
+    400226: DEF-pelvis
+    400228: DEF-pelvis 1
+    400230: DEF-pelvis.L
+    400232: DEF-pelvis.L 1
+    400234: DEF-pelvis.R
+    400236: DEF-pelvis.R 1
+    400238: DEF-r_toe.L
+    400240: DEF-r_toe.L 1
+    400242: DEF-r_toe.R
+    400244: DEF-r_toe.R 1
+    400246: DEF-shin.L
+    400248: DEF-shin.L 1
+    400250: DEF-shin.L.001
+    400252: DEF-shin.L.001 1
+    400254: DEF-shin.R
+    400256: DEF-shin.R 1
+    400258: DEF-shin.R.001
+    400260: DEF-shin.R.001 1
+    400262: DEF-shoulder.L
+    400264: DEF-shoulder.L 1
+    400266: DEF-shoulder.R
+    400268: DEF-shoulder.R 1
+    400270: DEF-skull.L
+    400272: DEF-skull.L 1
+    400274: DEF-skull.R
+    400276: DEF-skull.R 1
+    400278: DEF-spine
+    400280: DEF-spine 1
+    400282: DEF-spine.001
+    400284: DEF-spine.001 1
+    400286: DEF-spine.002
+    400288: DEF-spine.002 1
+    400290: DEF-spine.003
+    400292: DEF-spine.003 1
+    400294: DEF-spine.004
+    400296: DEF-spine.004 1
+    400298: DEF-spine.005
+    400300: DEF-spine.005 1
+    400302: DEF-spine.006
+    400304: DEF-spine.006 1
+    400306: DEF-spine.007
+    400308: DEF-spine.007 1
+    400310: DEF-spine.008
+    400312: DEF-spine.008 1
+    400314: DEF-spine.009
+    400316: DEF-spine.009 1
+    400318: DEF-spine.010
+    400320: DEF-spine.010 1
+    400322: DEF-spine.011
+    400324: DEF-spine.011 1
+    400326: DEF-spine.012
+    400328: DEF-spine.012 1
+    400330: DEF-spine.013
+    400332: DEF-spine.013 1
+    400334: DEF-spine.014
+    400336: DEF-spine.014 1
+    400338: DEF-spine.015
+    400340: DEF-spine.015 1
+    400342: DEF-spine.016
+    400344: DEF-spine.016 1
+    400346: DEF-thigh.L
+    400348: DEF-thigh.L 1
+    400350: DEF-thigh.L.001
+    400352: DEF-thigh.L.001 1
+    400354: DEF-thigh.R
+    400356: DEF-thigh.R 1
+    400358: DEF-thigh.R.001
+    400360: DEF-thigh.R.001 1
+    400362: DEF-upper_arm.L
+    400364: DEF-upper_arm.L 1
+    400366: DEF-upper_arm.L.001
+    400368: DEF-upper_arm.L.001 1
+    400370: DEF-upper_arm.R
+    400372: DEF-upper_arm.R 1
+    400374: DEF-upper_arm.R.001
+    400376: DEF-upper_arm.R.001 1
+    400378: Door_L
+    400380: Door_R
+    400382: ear.L
+    400384: ear.L 1
+    400386: Harness
+    400388: Harness.001
+    400390: head
+    400392: head 1
+    400394: Horse
+    400396: Horse.001
+    400398: Horse_Path
+    400400: Horse_Rig
+    400402: Horse_Rig.001
+    400404: Hub_bl
+    400406: Hub_br
+    400408: Hub_fl
+    400410: Hub_fr
+    400412: IK_second_motion
+    400414: Main_second_motion
+    400416: MCH-pivot
+    400418: MCH-pivot 1
+    400420: MCH-ROT-head
+    400422: MCH-ROT-head 1
+    400424: MCH-ROT-neck
+    400426: MCH-ROT-neck 1
+    400428: MCH-spine.005
+    400430: MCH-spine.005 1
+    400432: MCH-spine.006
+    400434: MCH-spine.006 1
+    400436: MCH-spine.007
+    400438: MCH-spine.007 1
+    400440: MCH-spine.008
+    400442: MCH-spine.008 1
+    400444: MCH-spine.009
+    400446: MCH-spine.009 1
+    400448: MCH-spine.010
+    400450: MCH-spine.010 1
+    400452: neck
+    400454: neck 1
+    400456: ORG-belly
+    400458: ORG-belly 1
+    400460: ORG-breast.L
+    400462: ORG-breast.L 1
+    400464: ORG-breast.R
+    400466: ORG-breast.R 1
+    400468: ORG-chest
+    400470: ORG-chest 1
+    400472: ORG-ear.L
+    400474: ORG-ear.L 1
+    400476: ORG-eye.L
+    400478: ORG-eye.L 1
+    400480: ORG-eye.R
+    400482: ORG-eye.R 1
+    400484: ORG-nose.L
+    400486: ORG-nose.L 1
+    400488: ORG-nose.R
+    400490: ORG-nose.R 1
+    400492: ORG-pelvis
+    400494: ORG-pelvis 1
+    400496: ORG-pelvis.L
+    400498: ORG-pelvis.L 1
+    400500: ORG-pelvis.R
+    400502: ORG-pelvis.R 1
+    400504: ORG-shoulder.L
+    400506: ORG-shoulder.L 1
+    400508: ORG-shoulder.R
+    400510: ORG-shoulder.R 1
+    400512: ORG-skull.L
+    400514: ORG-skull.L 1
+    400516: ORG-skull.R
+    400518: ORG-skull.R 1
+    400520: ORG-spine.006
+    400522: ORG-spine.006 1
+    400524: ORG-spine.008
+    400526: ORG-spine.008 1
+    400528: ORG-spine.009
+    400530: ORG-spine.009 1
+    400532: ORG-spine.010
+    400534: ORG-spine.010 1
+    400536: ORG-spine.011
+    400538: ORG-spine.011 1
+    400540: ORG-spine.012
+    400542: ORG-spine.012 1
+    400544: ORG-spine.013
+    400546: ORG-spine.013 1
+    400548: ORG-spine.014
+    400550: ORG-spine.014 1
+    400552: ORG-spine.015
+    400554: ORG-spine.015 1
+    400556: ORG-spine.016
+    400558: ORG-spine.016 1
+    400560: Root
+    400562: root
+    400564: root 1
+    400566: torso
+    400568: torso 1
+    400570: tweak_ear.L
+    400572: tweak_ear.L 1
+    400574: tweak_spine.006
+    400576: tweak_spine.006 1
+    400578: tweak_spine.008
+    400580: tweak_spine.008 1
+    400582: tweak_spine.009
+    400584: tweak_spine.009 1
+    400586: tweak_spine.010
+    400588: tweak_spine.010 1
+    400590: tweak_spine.011
+    400592: tweak_spine.011 1
+    400594: Wheel_bl
+    400596: Wheel_br
+    400598: Wheel_fl
+    400600: Wheel_fr
+    2100000: Carriage
+    2100002: Horse_Material
+    2100004: Horse_Hairs
+    2100006: Horse_Eyes
+    2100008: Horse_Harness
+    2100010: Horse_Harness_Metal
+    2100012: Carriage_curtain
+    2300000: Carriage_curtain
+    3300000: Carriage_curtain
+    4300000: Carriage
+    4300002: Horse
+    4300004: Harness
+    4300006: Horse.001
+    4300008: Harness.001
+    4300010: Carriage_curtain
+    7400000: Carriage_rotate
+    7400002: Carriage_Gallop
+    7400004: Carriage_Stay
+    7400006: Carriage_Walk
+    7400008: Horse_Gallop
+    7400010: Horse_Walk
+    7400012: Carriage|Horse_Rig.001Action
+    7400014: Carriage|Horse_RigAction
+    7400016: Carriage|Horses_MainAction
+    7400018: Carriage_curtain|Horse_Rig.001Action
+    7400020: Carriage_curtain|Horse_RigAction
+    7400022: Carriage_curtain|Horses_MainAction
+    7400024: Carriage_Rig|Carriage_Doors_Close
+    7400026: Carriage_Rig|Carriage_Doors_Open
+    7400028: Carriage_Rig|Carriage_Gallop
+    7400030: Carriage_Rig|Carriage_rotate
+    7400032: Carriage_Rig|Carriage_Stay
+    7400034: Carriage_Rig|Carriage_Walk
+    7400036: Carriage_Rig|Horse_Rig.001Action
+    7400038: Carriage_Rig|Horse_RigAction
+    7400040: Carriage_Rig|Horses_MainAction
+    7400042: Carriage_Rig|Move_Left
+    7400044: Carriage_Rig|Move_Right
+    7400046: Horse_Rig|Horse_Default_Stay
+    7400048: Horse_Rig|Horse_Eating
+    7400050: Horse_Rig|Horse_Gallop
+    7400052: Horse_Rig|Horse_Gallop.001
+    7400054: Horse_Rig|Horse_Rig.001Action
+    7400056: Horse_Rig|Horse_RigAction
+    7400058: Horse_Rig|Horse_Stay
+    7400060: Horse_Rig|Horse_Stay_Simple
+    7400062: Horse_Rig|Horse_Walk
+    7400064: Horse_Rig|Horse_Walk.001
+    7400066: Horse_Rig|Horses_MainAction
+    7400068: Horse_Rig.001|Horse_Default_Stay
+    7400070: Horse_Rig.001|Horse_Eating
+    7400072: Horse_Rig.001|Horse_Gallop
+    7400074: Horse_Rig.001|Horse_Gallop.001
+    7400076: Horse_Rig.001|Horse_Rig.001Action
+    7400078: Horse_Rig.001|Horse_RigAction
+    7400080: Horse_Rig.001|Horse_Stay
+    7400082: Horse_Rig.001|Horse_Stay_Simple
+    7400084: Horse_Rig.001|Horse_Walk
+    7400086: Horse_Rig.001|Horse_Walk.001
+    7400088: Horse_Rig.001|Horses_MainAction
+    9500000: //RootNode
+    13700000: Carriage
+    13700002: Harness
+    13700004: Harness.001
+    13700006: Horse
+    13700008: Horse.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carriage
+    second: {fileID: 2100000, guid: 93d1fcd7ec7360349be91f82f54e42cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carriage_curtain
+    second: {fileID: 2100000, guid: 9eb022875a111e946a60d14fb5b0b990, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Horse_Eyes
+    second: {fileID: 2100000, guid: be2317d9fea9e3a458c2cc035499efd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Horse_Hairs
+    second: {fileID: 2100000, guid: 16ea3624269b63646af4bfea634b4f26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Horse_Harness
+    second: {fileID: 2100000, guid: 04c9a10f5f91aca4ba551bb3887eca5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Horse_Harness_Metal
+    second: {fileID: 2100000, guid: 6ef35ca97296c3b4db7bd55ff91bb879, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Horse_Material
+    second: {fileID: 2100000, guid: 08ee6a8e3364a5a40bdd89e76ae11df4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Carriage_rotate
+      takeName: Carriage_rotate
+      firstFrame: 0
+      lastFrame: 349
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage_Gallop
+      takeName: Carriage_Gallop
+      firstFrame: 0
+      lastFrame: 51
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage_Stay
+      takeName: Carriage_Stay
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage_Walk
+      takeName: Carriage_Walk
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Gallop
+      takeName: Horse_Gallop
+      firstFrame: 0
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Walk
+      takeName: Horse_Walk
+      firstFrame: 0
+      lastFrame: 78
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage|Horse_Rig.001Action
+      takeName: Carriage|Horse_Rig.001Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage|Horse_RigAction
+      takeName: Carriage|Horse_RigAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage|Horses_MainAction
+      takeName: Carriage|Horses_MainAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage_curtain|Horse_Rig.001Action
+      takeName: Carriage_curtain|Horse_Rig.001Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage_curtain|Horse_RigAction
+      takeName: Carriage_curtain|Horse_RigAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage_curtain|Horses_MainAction
+      takeName: Carriage_curtain|Horses_MainAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage_Rig|Carriage_Doors_Close
+      takeName: Carriage_Rig|Carriage_Doors_Close
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage_Rig|Carriage_Doors_Open
+      takeName: Carriage_Rig|Carriage_Doors_Open
+      firstFrame: 0
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage_Rig|Carriage_Gallop
+      takeName: Carriage_Rig|Carriage_Gallop
+      firstFrame: 0
+      lastFrame: 51
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage_Rig|Carriage_rotate
+      takeName: Carriage_Rig|Carriage_rotate
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage_Rig|Carriage_Stay
+      takeName: Carriage_Rig|Carriage_Stay
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage_Rig|Carriage_Walk
+      takeName: Carriage_Rig|Carriage_Walk
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage_Rig|Horse_Rig.001Action
+      takeName: Carriage_Rig|Horse_Rig.001Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage_Rig|Horse_RigAction
+      takeName: Carriage_Rig|Horse_RigAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage_Rig|Horses_MainAction
+      takeName: Carriage_Rig|Horses_MainAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage_Rig|Move_Left
+      takeName: Carriage_Rig|Move_Left
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Carriage_Rig|Move_Right
+      takeName: Carriage_Rig|Move_Right
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig|Horse_Default_Stay
+      takeName: Horse_Rig|Horse_Default_Stay
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig|Horse_Eating
+      takeName: Horse_Rig|Horse_Eating
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig|Horse_Gallop
+      takeName: Horse_Rig|Horse_Gallop
+      firstFrame: 0
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig|Horse_Gallop.001
+      takeName: Horse_Rig|Horse_Gallop.001
+      firstFrame: 0
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig|Horse_Rig.001Action
+      takeName: Horse_Rig|Horse_Rig.001Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig|Horse_RigAction
+      takeName: Horse_Rig|Horse_RigAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig|Horse_Stay
+      takeName: Horse_Rig|Horse_Stay
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig|Horse_Stay_Simple
+      takeName: Horse_Rig|Horse_Stay_Simple
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig|Horse_Walk
+      takeName: Horse_Rig|Horse_Walk
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig|Horse_Walk.001
+      takeName: Horse_Rig|Horse_Walk.001
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig|Horses_MainAction
+      takeName: Horse_Rig|Horses_MainAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig.001|Horse_Default_Stay
+      takeName: Horse_Rig.001|Horse_Default_Stay
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig.001|Horse_Eating
+      takeName: Horse_Rig.001|Horse_Eating
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0.4
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig.001|Horse_Gallop
+      takeName: Horse_Rig.001|Horse_Gallop
+      firstFrame: 0
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0.3
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig.001|Horse_Gallop.001
+      takeName: Horse_Rig.001|Horse_Gallop.001
+      firstFrame: 0
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0.5
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig.001|Horse_Rig.001Action
+      takeName: Horse_Rig.001|Horse_Rig.001Action
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig.001|Horse_RigAction
+      takeName: Horse_Rig.001|Horse_RigAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig.001|Horse_Stay
+      takeName: Horse_Rig.001|Horse_Stay
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0.5
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig.001|Horse_Stay_Simple
+      takeName: Horse_Rig.001|Horse_Stay_Simple
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0.3
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig.001|Horse_Walk
+      takeName: Horse_Rig.001|Horse_Walk
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0.4
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig.001|Horse_Walk.001
+      takeName: Horse_Rig.001|Horse_Walk.001
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0.5
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Horse_Rig.001|Horses_MainAction
+      takeName: Horse_Rig.001|Horses_MainAction
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
